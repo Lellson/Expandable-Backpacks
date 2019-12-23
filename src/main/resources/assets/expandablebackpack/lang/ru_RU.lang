@@ -1,0 +1,56 @@
+item.obsidianLeather.name=Обсидиановая кожа
+item.sendingController.name=Контроллер отправления
+
+item.expandableBackpack.default.name=Расширяемый рюкзак
+item.expandableBackpack.black.name=Расширяемый рюкзак
+item.expandableBackpack.red.name=Расширяемый рюкзак
+item.expandableBackpack.green.name=Расширяемый рюкзак
+item.expandableBackpack.brown.name=Расширяемый рюкзак
+item.expandableBackpack.blue.name=Расширяемый рюкзак
+item.expandableBackpack.purple.name=Расширяемый рюкзак
+item.expandableBackpack.cyan.name=Расширяемый рюкзак
+item.expandableBackpack.lightGray.name=Расширяемый рюкзак
+item.expandableBackpack.gray.name=Расширяемый рюкзак
+item.expandableBackpack.pink.name=Расширяемый рюкзак
+item.expandableBackpack.lime.name=Расширяемый рюкзак
+item.expandableBackpack.yellow.name=Расширяемый рюкзак
+item.expandableBackpack.lightBlue.name=Расширяемый рюкзак
+item.expandableBackpack.magenta.name=Расширяемый рюкзак
+item.expandableBackpack.orange.name=Расширяемый рюкзак
+item.expandableBackpack.white.name=Расширяемый рюкзак
+
+item.expandableBackpackArmored.default.name=Расширяемый рюкзак
+item.expandableBackpackArmored.black.name=Расширяемый рюкзак
+item.expandableBackpackArmored.red.name=Расширяемый рюкзак
+item.expandableBackpackArmored.green.name=Расширяемый рюкзак
+item.expandableBackpackArmored.brown.name=Расширяемый рюкзак
+item.expandableBackpackArmored.blue.name=Расширяемый рюкзак
+item.expandableBackpackArmored.purple.name=Расширяемый рюкзак
+item.expandableBackpackArmored.cyan.name=Расширяемый рюкзак
+item.expandableBackpackArmored.lightGray.name=Расширяемый рюкзак
+item.expandableBackpackArmored.gray.name=Расширяемый рюкзак
+item.expandableBackpackArmored.pink.name=Расширяемый рюкзак
+item.expandableBackpackArmored.lime.name=Расширяемый рюкзак
+item.expandableBackpackArmored.yellow.name=Расширяемый рюкзак
+item.expandableBackpackArmored.lightBlue.name=Расширяемый рюкзак
+item.expandableBackpackArmored.magenta.name=Расширяемый рюкзак
+item.expandableBackpackArmored.orange.name=Расширяемый рюкзак
+item.expandableBackpackArmored.white.name=Расширяемый рюкзак
+
+item.compartment.basic.name=Отсек [§7Основа§f]
+item.compartment.soulbound.name=Отсек [§eПечать души§f]
+item.compartment.pickup.name=Отсек [§aПодбор§f]
+item.compartment.empty.name=Отсек [§cПустота§f]
+item.compartment.infinite.name=Отсек [§bБесконечность§f]
+item.compartment.incinerate.name=Отсек [§4Сжигание§f]
+item.compartment.armored.name=Отсек [§8Бронированние§f]
+item.compartment.swap.name=Отсек [§6Замена§f]
+item.compartment.guarded.name=Отсек [§2Охрана§f]
+item.compartment.quivered.name=Отсек [§9Колчан§f]
+item.compartment.ender.name=Отсек [§3Эндер§f]
+item.compartment.sending.name=Отсек [§dОтправка§f]
+item.compartment.crafting.name=Отсек [§8Крафт§f]
+item.compartment.creative.name=Отсек [§5Творчество§f]
+item.compartment.tank.name=Отсек [§1Резервуар§f]
+
+itemGroup.expandablebackpack=Expandable Backpack

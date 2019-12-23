@@ -1,0 +1,56 @@
+item.obsidianLeather.name=Obsidian Leather
+item.sendingController.name=Sending Controller
+
+item.expandableBackpack.default.name=Expandable Backpack
+item.expandableBackpack.black.name=Expandable Backpack
+item.expandableBackpack.red.name=Expandable Backpack
+item.expandableBackpack.green.name=Expandable Backpack
+item.expandableBackpack.brown.name=Expandable Backpack
+item.expandableBackpack.blue.name=Expandable Backpack
+item.expandableBackpack.purple.name=Expandable Backpack
+item.expandableBackpack.cyan.name=Expandable Backpack
+item.expandableBackpack.lightGray.name=Expandable Backpack
+item.expandableBackpack.gray.name=Expandable Backpack
+item.expandableBackpack.pink.name=Expandable Backpack
+item.expandableBackpack.lime.name=Expandable Backpack
+item.expandableBackpack.yellow.name=Expandable Backpack
+item.expandableBackpack.lightBlue.name=Expandable Backpack
+item.expandableBackpack.magenta.name=Expandable Backpack
+item.expandableBackpack.orange.name=Expandable Backpack
+item.expandableBackpack.white.name=Expandable Backpack
+
+item.expandableBackpackArmored.default.name=Expandable Backpack
+item.expandableBackpackArmored.black.name=Expandable Backpack
+item.expandableBackpackArmored.red.name=Expandable Backpack
+item.expandableBackpackArmored.green.name=Expandable Backpack
+item.expandableBackpackArmored.brown.name=Expandable Backpack
+item.expandableBackpackArmored.blue.name=Expandable Backpack
+item.expandableBackpackArmored.purple.name=Expandable Backpack
+item.expandableBackpackArmored.cyan.name=Expandable Backpack
+item.expandableBackpackArmored.lightGray.name=Expandable Backpack
+item.expandableBackpackArmored.gray.name=Expandable Backpack
+item.expandableBackpackArmored.pink.name=Expandable Backpack
+item.expandableBackpackArmored.lime.name=Expandable Backpack
+item.expandableBackpackArmored.yellow.name=Expandable Backpack
+item.expandableBackpackArmored.lightBlue.name=Expandable Backpack
+item.expandableBackpackArmored.magenta.name=Expandable Backpack
+item.expandableBackpackArmored.orange.name=Expandable Backpack
+item.expandableBackpackArmored.white.name=Expandable Backpack
+
+item.compartment.basic.name=Compartment [§7Basic§f]
+item.compartment.soulbound.name=Compartment [§eSoulbound§f]
+item.compartment.pickup.name=Compartment [§aPickup§f]
+item.compartment.empty.name=Compartment [§cEmpty§f]
+item.compartment.infinite.name=Compartment [§bInfinite§f]
+item.compartment.incinerate.name=Compartment [§4Incinerate§f]
+item.compartment.armored.name=Compartment [§8Armored§f]
+item.compartment.swap.name=Compartment [§6Swap§f]
+item.compartment.guarded.name=Compartment [§2Guarded§f]
+item.compartment.quivered.name=Compartment [§9Quivered§f]
+item.compartment.ender.name=Compartment [§3Ender§f]
+item.compartment.sending.name=Compartment [§dSending§f]
+item.compartment.crafting.name=Compartment [§8Crafting§f]
+item.compartment.creative.name=Compartment [§5Creative§f]
+item.compartment.tank.name=Compartment [§1Tank§f]
+
+itemGroup.expandablebackpack=Expandable Backpack

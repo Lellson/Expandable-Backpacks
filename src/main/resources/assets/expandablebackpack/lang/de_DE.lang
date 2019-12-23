@@ -1,0 +1,56 @@
+item.obsidianLeather.name=Obsidianleder
+item.sendingController.name=Sende-Steuergerät
+
+item.expandableBackpack.default.name=Erweiterbarer Rucksack
+item.expandableBackpack.black.name=Erweiterbarer Rucksack
+item.expandableBackpack.red.name=Erweiterbarer Rucksack
+item.expandableBackpack.green.name=Erweiterbarer Rucksack
+item.expandableBackpack.brown.name=Erweiterbarer Rucksack
+item.expandableBackpack.blue.name=Erweiterbarer Rucksack
+item.expandableBackpack.purple.name=Erweiterbarer Rucksack
+item.expandableBackpack.cyan.name=Erweiterbarer Rucksack
+item.expandableBackpack.lightGray.name=Erweiterbarer Rucksack
+item.expandableBackpack.gray.name=Erweiterbarer Rucksack
+item.expandableBackpack.pink.name=Erweiterbarer Rucksack
+item.expandableBackpack.lime.name=Erweiterbarer Rucksack
+item.expandableBackpack.yellow.name=Erweiterbarer Rucksack
+item.expandableBackpack.lightBlue.name=Erweiterbarer Rucksack
+item.expandableBackpack.magenta.name=Erweiterbarer Rucksack
+item.expandableBackpack.orange.name=Erweiterbarer Rucksack
+item.expandableBackpack.white.name=Erweiterbarer Rucksack
+
+item.expandableBackpackArmored.default.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.black.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.red.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.green.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.brown.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.blue.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.purple.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.cyan.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.lightGray.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.gray.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.pink.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.lime.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.yellow.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.lightBlue.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.magenta.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.orange.name=Erweiterbarer Rucksack
+item.expandableBackpackArmored.white.name=Erweiterbarer Rucksack
+
+item.compartment.basic.name=Erweiterung [§7Basis§f]
+item.compartment.soulbound.name=Erweiterung [§eSeelenbund§f]
+item.compartment.pickup.name=Erweiterung [§aAufnehmen§f]
+item.compartment.empty.name=Erweiterung [§cLeeren§f]
+item.compartment.infinite.name=Erweiterung [§bUnendlich§f]
+item.compartment.incinerate.name=Erweiterung [§4Auflösen§f]
+item.compartment.armored.name=Erweiterung [§8Gepanzert§f]
+item.compartment.swap.name=Erweiterung [§6Wechsel§f]
+item.compartment.guarded.name=Erweiterung [§2Bewacht§f]
+item.compartment.quivered.name=Erweiterung [§9Köcher§f]
+item.compartment.ender.name=Erweiterung [§3Ender§f]
+item.compartment.sending.name=Erweiterung [§dSenden§f]
+item.compartment.crafting.name=Erweiterung [§8Werken§f]
+item.compartment.creative.name=Erweiterung [§5Kreativ§f]
+item.compartment.tank.name=Erweiterung [§1Tank§f]
+
+itemGroup.expandablebackpack=Expandable Backpack

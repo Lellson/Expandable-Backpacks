@@ -1,0 +1,64 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+		"particle": "expandablebackpack:items/compartment_quivered",
+        "0": "expandablebackpack:items/compartment_quivered"
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 4.0, 0.0, 6.0 ], 
+            "to": [ 12.0, 10.0, 9.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 11.0, 12.0 ] },
+                "east": { "texture": "#0", "uv": [ 11.0, 0.0, 16.0, 11.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 11.0, 12.0 ] },
+                "west": { "texture": "#0", "uv": [ 11.0, 0.0, 16.0, 11.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 12.0, 10.0, 16.0 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 12.0, 10.0, 16.0 ] }
+            }
+        }
+    ],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [ 0, 0, -1 ],
+			"translation": [ 0, 2, 0.5 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 0, 180, -1 ],
+			"translation": [ 0, 2, 0.5 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		},
+		"head": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 13, 0 ],
+			"scale": [ 1, 1, 1 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 1, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, -41 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 1, 1, 1 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, -45, 6 ],
+			"translation": [ 1.12, 4, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 0, -45, 6 ],
+			"translation": [ 1.12, 4, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"gui": {
+			"rotation": [ 30, -30, 0 ],
+			"translation": [ -0.94, 2, 12.85 ],
+			"scale": [ 0.9, 0.9, 0.9 ]
+		}
+	}
+}
